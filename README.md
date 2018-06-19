@@ -1,0 +1,1 @@
+irssi plugin for iocage
