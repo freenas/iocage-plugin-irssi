@@ -1,1 +1,1 @@
-echo ":ogin to your irssit host and start irssi. Happy chatting"
+echo "Login to your irssi host and start irssi. Happy chatting"
